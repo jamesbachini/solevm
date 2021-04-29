@@ -1,6 +1,6 @@
 ## SOLEVM | Solana EVM Compatible Layer 2
 
-![SOLEVM](https://solevm.com/img/solevm_onepager.png)
+![SOLEVM](https://solevm.com/img/solevm_onepager.png?v=1)
 
 Subchain based on go-ethereum, consensus system of 21 validators with Proof of Staked Authority (PoSA) derived from Solana smart contract
 

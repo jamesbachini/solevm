@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1920"
@@ -19,6 +20,22 @@
    inkscape:export-ydpi="96">
   <defs
      id="defs908">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1090">
+      <stop
+         style="stop-color:#2236af;stop-opacity:1"
+         offset="0"
+         id="stop1086" />
+      <stop
+         style="stop-color:#5ba2c9;stop-opacity:1"
+         offset="0.4559027"
+         id="stop1092" />
+      <stop
+         style="stop-color:#d02bfa;stop-opacity:1"
+         offset="1"
+         id="stop1088" />
+    </linearGradient>
     <rect
        x="431.90756"
        y="120.80583"
@@ -76,6 +93,35 @@
          style="stop-color:#DC1FFF"
          id="stop20" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1090"
+       id="linearGradient1020"
+       x1="-7.2998489e-08"
+       y1="-0.15127909"
+       x2="-7.2998489e-08"
+       y2="13.077879"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1090"
+       id="linearGradient1020-1"
+       x1="-7.2998489e-08"
+       y1="-0.15127909"
+       x2="-7.2998489e-08"
+       y2="13.077879"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.35139925,0,0,0.35139925,69.169007,-241.74471)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1090"
+       id="linearGradient1020-2"
+       x1="-7.2998489e-08"
+       y1="-0.15127909"
+       x2="-7.2998489e-08"
+       y2="13.077879"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,273.05007)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -84,9 +130,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="1023.3433"
-     inkscape:cy="688.71496"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="929.1775"
+     inkscape:cy="672.75901"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -115,6 +161,14 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
+       style="fill:url(#linearGradient1020-2);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="rect1872-2-3"
+       width="508.37799"
+       height="13.229158"
+       x="-7.2998489e-08"
+       y="272.89871"
+       ry="0.47246909" />
+    <rect
        style="fill:#f9f9f9;fill-rule:evenodd;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect1013"
        width="508.37793"
@@ -126,23 +180,23 @@
        xml:space="preserve"
        style="font-weight:bold;font-size:28.2222px;line-height:0.65;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:center;letter-spacing:-1.01335px;text-anchor:middle;fill:#333333;fill-opacity:0.542342;fill-rule:evenodd;stroke:none;stroke-width:4.99999;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
        x="243.41664"
-       y="37.117264"
+       y="40.821434"
        id="text832"><tspan
          sodipodi:role="line"
          id="tspan830"
          x="242.90996"
-         y="37.117264"
+         y="40.821434"
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:28.2222px;font-family:Poppins;-inkscape-font-specification:'Poppins Heavy';fill:#333333;fill-opacity:1;stroke:none;stroke-width:5">SOLEVM</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins Heavy';text-align:center;text-anchor:middle;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.99999;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
        x="243.41667"
-       y="46.944649"
+       y="50.648819"
        id="text836"><tspan
          sodipodi:role="line"
          id="tspan834"
          x="243.41667"
-         y="46.944649"
+         y="50.648819"
          style="font-size:6.35px;fill:#666666;stroke-width:5">SOLANA EVM COMPATIBLE LAYER 2</tspan></text>
     <g
        id="g850"
@@ -153,7 +207,7 @@
          id="polygon838" />
       <polygon
          fill="#8c8c8c"
-         points="127.962,0 0,212.32 127.962,287.959 127.962,154.158 "
+         points="127.962,154.158 127.962,0 0,212.32 127.962,287.959 "
          id="polygon840" />
       <polygon
          fill="#3c3c3b"
@@ -284,14 +338,6 @@
          y="256.7724"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.57796px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:3.35638"
          id="tspan1010">transaction fees &lt; yield farming &amp; PoS</tspan></text>
-    <rect
-       style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.99999;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-       id="rect1016"
-       width="2.672689"
-       height="207.40114"
-       x="237.38905"
-       y="63.075607"
-       ry="2.1381562" />
     <g
        id="g1076"
        transform="translate(-3.5678964,-6.4062443)">
@@ -708,7 +754,7 @@
            id="g1250"
            style="fill:#808080">
           <polygon
-             points="597.289,644.013 356.804,644.013 356.804,758.364 597.289,714.89 "
+             points="597.289,714.89 597.289,644.013 356.804,644.013 356.804,758.364 "
              id="polygon1244"
              style="fill:#808080" />
           <path
@@ -787,38 +833,38 @@
        xml:space="preserve"
        style="font-weight:bold;font-size:10.5759px;line-height:0.65;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:center;letter-spacing:-0.379738px;text-anchor:middle;fill:#333333;fill-opacity:0.542342;fill-rule:evenodd;stroke:none;stroke-width:1.87367;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
        x="314.88434"
-       y="141.17174"
+       y="129.00092"
        id="text832-9"><tspan
          sodipodi:role="line"
          id="tspan830-1"
          x="314.69446"
-         y="141.17174"
+         y="129.00092"
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:10.5759px;font-family:Poppins;-inkscape-font-specification:'Poppins Heavy';fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.87367">PROS</tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:10.5759px;line-height:0.65;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:center;letter-spacing:-0.379738px;text-anchor:middle;fill:#333333;fill-opacity:0.542342;fill-rule:evenodd;stroke:none;stroke-width:1.87367;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
        x="428.655"
-       y="141.17174"
+       y="129.00092"
        id="text832-9-3"><tspan
          sodipodi:role="line"
          id="tspan830-1-9"
          x="428.46512"
-         y="141.17174"
+         y="129.00092"
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:10.5759px;font-family:Poppins;-inkscape-font-specification:'Poppins Heavy';fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.87367">CONS</tspan></text>
     <rect
-       style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.99999;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.48776;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect1016-3"
        width="1.4766947"
-       height="90.777161"
+       height="109.35239"
        x="371.03214"
-       y="129.76662"
-       ry="1.0690715" />
+       y="117.59578"
+       ry="1.2878299" />
     <rect
        style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.80493;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect1016-3-4"
        width="1.6036148"
        height="229.48076"
-       x="147.31192"
+       x="135.1411"
        y="-484.63156"
        ry="1.9745865"
        transform="rotate(90)" />
@@ -826,111 +872,141 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins Heavy';text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.12205;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
        x="255.07812"
-       y="162.03441"
+       y="149.86359"
        id="text960-3"><tspan
          sodipodi:role="line"
          x="255.07812"
-         y="162.03441"
+         y="149.86359"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:4.12205"
          id="tspan1547">Copy &amp; Paste DeFi economy</tspan><tspan
          sodipodi:role="line"
          x="255.07812"
-         y="170.85385"
+         y="158.68303"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:4.12205"
          id="tspan1555" /><tspan
          sodipodi:role="line"
          x="255.07812"
-         y="179.67331"
+         y="167.50249"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:4.12205"
          id="tspan1557">Capture TVL from Binance</tspan><tspan
          sodipodi:role="line"
          x="255.07812"
-         y="188.49275"
+         y="176.32193"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:4.12205"
          id="tspan1559">Smart Chain</tspan><tspan
          sodipodi:role="line"
          x="255.07812"
-         y="197.31221"
+         y="185.14139"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:4.12205"
          id="tspan1561" /><tspan
          sodipodi:role="line"
          x="255.07812"
-         y="206.13165"
+         y="193.96083"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:4.12205"
          id="tspan1563">Attract solidity devs to Solana</tspan><tspan
          sodipodi:role="line"
          x="255.07812"
-         y="214.95111"
+         y="202.78029"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:4.12205"
+         id="tspan1070" /><tspan
+         sodipodi:role="line"
+         x="255.07812"
+         y="211.59973"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:4.12205"
+         id="tspan1074">Position Solana for L2 narrative</tspan><tspan
+         sodipodi:role="line"
+         x="255.07812"
+         y="220.41919"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:4.12205"
+         id="tspan1084">premium L1, EVM L2</tspan><tspan
+         sodipodi:role="line"
+         x="255.07812"
+         y="229.23863"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:4.12205"
          id="tspan1565" /><tspan
          sodipodi:role="line"
          x="255.07812"
-         y="223.77055"
+         y="238.05809"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:4.12205"
          id="tspan1567" /><tspan
          sodipodi:role="line"
          x="255.07812"
-         y="232.59001"
+         y="246.87753"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:4.12205"
          id="tspan1551" /><tspan
          sodipodi:role="line"
          x="255.07812"
-         y="241.40945"
+         y="255.69698"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:4.12205"
          id="tspan1553" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins Heavy';text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.12205;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
        x="382.07788"
-       y="162.03441"
+       y="149.86359"
        id="text960-3-1"><tspan
          x="382.07788"
-         y="162.03441"
+         y="149.86359"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:4.12205"
          id="tspan1547-8"
          sodipodi:role="line">Centralisation compromise</tspan><tspan
          x="382.07788"
-         y="170.85385"
+         y="158.68303"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:4.12205"
          id="tspan1555-1"
          sodipodi:role="line" /><tspan
          x="382.07788"
-         y="179.67331"
+         y="167.50249"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:4.12205"
          id="tspan1559-3"
          sodipodi:role="line">Criticism of BSC &gt; Solana</tspan><tspan
          x="382.07788"
-         y="188.49275"
+         y="176.32193"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:4.12205"
          id="tspan1561-9"
          sodipodi:role="line" /><tspan
          x="382.07788"
-         y="197.31221"
+         y="185.14139"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:4.12205"
          id="tspan1563-0"
          sodipodi:role="line">Detract from Solana core </tspan><tspan
          x="382.07788"
-         y="206.13165"
+         y="193.96083"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:4.12205"
          sodipodi:role="line"
          id="tspan1622">performance USP</tspan><tspan
          x="382.07788"
-         y="214.95111"
+         y="202.78029"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:4.12205"
+         sodipodi:role="line"
+         id="tspan1078" /><tspan
+         x="382.07788"
+         y="211.59973"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:4.12205"
+         sodipodi:role="line"
+         id="tspan1080">Requires support from Solana</tspan><tspan
+         x="382.07788"
+         y="220.41919"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:4.12205"
+         sodipodi:role="line"
+         id="tspan1082">core to be credible</tspan><tspan
+         x="382.07788"
+         y="229.23863"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:4.12205"
          id="tspan1565-2"
          sodipodi:role="line" /><tspan
          x="382.07788"
-         y="223.77055"
+         y="238.05809"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:4.12205"
          id="tspan1567-3"
          sodipodi:role="line" /><tspan
          x="382.07788"
-         y="232.59001"
+         y="246.87753"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:4.12205"
          id="tspan1551-5"
          sodipodi:role="line" /><tspan
          x="382.07788"
-         y="241.40945"
+         y="255.69698"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:4.12205"
          id="tspan1553-8"
          sodipodi:role="line" /></text>
@@ -999,7 +1075,7 @@
          id="tspan1674"
          x="105.25274"
          y="73.495728"
-         style="fill:#4d4d4d;stroke:none;stroke-width:0.519463">dPoS Sub Chain</tspan></text>
+         style="fill:#4d4d4d;stroke:none;stroke-width:0.519463">PoSA Sub Chain</tspan></text>
     <rect
        style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect1700"
@@ -1111,14 +1187,6 @@
        inkscape:transform-center-x="-0.47613553"
        inkscape:transform-center-y="-0.018760121"
        transform="scale(-1,1)" />
-    <rect
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
-       id="rect1872"
-       width="508.37796"
-       height="13.229158"
-       x="-7.2998489e-08"
-       y="272.8988"
-       ry="0.47246909" />
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:7.05556px;line-height:0.65;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:center;letter-spacing:-0.15875px;text-anchor:middle;fill:#f9f9f9;fill-opacity:0.542342;fill-rule:evenodd;stroke:none;stroke-width:4.99999;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
@@ -1131,12 +1199,21 @@
          y="281.95584"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:4.99999">SOLEVM.COM</tspan></text>
     <rect
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:url(#linearGradient1020);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect1872-2"
        width="508.37799"
        height="13.229158"
        x="-7.2998489e-08"
        y="-0.15127909"
        ry="0.47246909" />
+    <rect
+       style="fill:url(#linearGradient1020-1);fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:0.351399;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="rect1872-2-7"
+       width="178.64365"
+       height="4.6487164"
+       x="69.169014"
+       y="-241.79787"
+       ry="2.3243582"
+       transform="rotate(90)" />
   </g>
 </svg>
