@@ -203,7 +203,7 @@
        transform="matrix(0.0977651,0,0,0.0977651,176.26852,61.598779)">
       <polygon
          fill="#343434"
-         points="127.9611,0 125.1661,9.5 125.1661,285.168 127.9611,287.958 255.9231,212.32 "
+         points="255.9231,212.32 127.9611,0 125.1661,9.5 125.1661,285.168 127.9611,287.958 "
          id="polygon838" />
       <polygon
          fill="#8c8c8c"
@@ -211,19 +211,19 @@
          id="polygon840" />
       <polygon
          fill="#3c3c3b"
-         points="127.9611,312.1866 126.3861,314.1066 126.3861,412.3056 127.9611,416.9066 255.9991,236.5866 "
+         points="255.9991,236.5866 127.9611,312.1866 126.3861,314.1066 126.3861,412.3056 127.9611,416.9066 "
          id="polygon842" />
       <polygon
          fill="#8c8c8c"
-         points="0,236.5852 127.962,416.9052 127.962,312.1852 "
+         points="127.962,416.9052 127.962,312.1852 0,236.5852 "
          id="polygon844" />
       <polygon
          fill="#141414"
-         points="127.9611,154.1587 127.9611,287.9577 255.9211,212.3207 "
+         points="127.9611,287.9577 255.9211,212.3207 127.9611,154.1587 "
          id="polygon846" />
       <polygon
          fill="#393939"
-         points="127.9609,154.1588 0.0009,212.3208 127.9609,287.9578 "
+         points="0.0009,212.3208 127.9609,287.9578 127.9609,154.1588 "
          id="polygon848" />
     </g>
     <g
@@ -292,17 +292,17 @@
          x="38.58506"
          y="171.52034"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.57796px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:3.35638"
-         id="tspan988">Nodes run customised BSC fork with dPoS</tspan><tspan
+         id="tspan988">Nodes run customised go-ethereum fork with</tspan><tspan
          sodipodi:role="line"
          x="38.58506"
          y="180.9928"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.57796px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:3.35638"
-         id="tspan992">consensus based on Solana token and</tspan><tspan
+         id="tspan992">a proof of staked authority consensus based</tspan><tspan
          sodipodi:role="line"
          x="38.58506"
          y="190.46524"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.57796px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:3.35638"
-         id="tspan1331">smart contract</tspan><tspan
+         id="tspan1331">on Solana token and smart contract</tspan><tspan
          sodipodi:role="line"
          x="38.58506"
          y="199.9377"
@@ -337,7 +337,7 @@
          x="38.58506"
          y="256.7724"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.57796px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:3.35638"
-         id="tspan1010">transaction fees &lt; yield farming &amp; PoS</tspan></text>
+         id="tspan1010">gas fees &lt; yield farming &amp; PoS</tspan></text>
     <g
        id="g1076"
        transform="translate(-3.5678964,-6.4062443)">
@@ -936,7 +936,7 @@
          id="tspan1551" /><tspan
          sodipodi:role="line"
          x="255.07812"
-         y="255.69698"
+         y="255.69699"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:4.12205"
          id="tspan1553" /></text>
     <text
@@ -1006,7 +1006,7 @@
          id="tspan1551-5"
          sodipodi:role="line" /><tspan
          x="382.07788"
-         y="255.69698"
+         y="255.69699"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';text-align:start;text-anchor:start;stroke-width:4.12205"
          id="tspan1553-8"
          sodipodi:role="line" /></text>
@@ -1207,7 +1207,7 @@
        y="-0.15127909"
        ry="0.47246909" />
     <rect
-       style="fill:url(#linearGradient1020-1);fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:0.351399;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:url(#linearGradient1020-1);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.351399;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect1872-2-7"
        width="178.64365"
        height="4.6487164"
