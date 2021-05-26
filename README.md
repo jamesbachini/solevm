@@ -8,6 +8,6 @@ Asset bridge and contract interoperability between SOL <> SVM <> ETH via an orac
 
 Native SVM token is used to pay gas fees and for cross chain operations
 
-![SOLEVM](https://solevm.com/img/solevm_infra.png?v=2)
+![SOLEVMINFRA](https://solevm.com/img/solevm_infra.png?v=2)
 
 [GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html),
