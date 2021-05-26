@@ -14,7 +14,10 @@
    version="1.1"
    id="svg914"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="solevmInfra.svg">
+   sodipodi:docname="solevmInfra.svg"
+   inkscape:export-filename="C:\shareddocs\solevm\solevm\docs\img\solevm_infra.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs908">
     <linearGradient
@@ -91,6 +94,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#f9f9f9;fill-rule:evenodd;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect1013"
+       width="508.37796"
+       height="259.82092"
+       x="-0.015675468"
+       y="13.464756"
+       ry="0.47246909" />
     <text
        xml:space="preserve"
        style="font-weight:600;font-size:8.58385px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins Semi-Bold';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:0.85045;fill-rule:evenodd;stroke-width:3.80189;stroke-linecap:round;stroke-linejoin:round"
@@ -825,7 +836,7 @@
        id="text832-4"><tspan
          sodipodi:role="line"
          id="tspan830-8"
-         x="34.782284"
+         x="34.78228"
          y="281.73923"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:4.99999">SOLEVM.COM</tspan></text>
     <text
@@ -841,14 +852,14 @@
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Poppins;-inkscape-font-specification:'Poppins Italic';fill:#b3b3b3;stroke-width:4.99999">&quot;SOLEVM is an experiment to bring Binance Smart Chain traction to Solana&quot;</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins Heavy';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.99999;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins Heavy';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.99999;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
        x="430.33249"
        y="281.12891"
        id="text836-5-0"><tspan
          sodipodi:role="line"
          x="430.33249"
          y="281.12891"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.35px;font-family:Poppins;-inkscape-font-specification:'Poppins Semi-Bold';fill:#ffffff;stroke-width:4.99999;"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.35px;font-family:Poppins;-inkscape-font-specification:'Poppins Semi-Bold';fill:#ffffff;stroke-width:4.99999"
          id="tspan1696">https://github.com/jamesbachini/solevm</tspan></text>
   </g>
 </svg>
