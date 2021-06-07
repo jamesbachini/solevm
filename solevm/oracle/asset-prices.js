@@ -30,6 +30,7 @@ const updatePrices = async () => {
 	const marketData = [];
 	json.forEach((coinData) => {
 		if (!coinData.symbol || coinData.symbol.substr(coinData.symbol.length - 4) !== 'USDT') return false;
+		if (!coinData.symbol.substr(0,3) === 'BTC' && !coinData.symbol.substr(0,3) === 'ETH' && !coinData.symbol.substr(0,3) === 'SOL') return false;
 		const sym = coinData.symbol.split('USDT').join('');
 		const price = round(coinData.lastPrice);
 		marketData.push([sym,price]);
